@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheoneunjeong&layout=donut&show_icons=true&hide_border=true&count_private=true" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheoneunjeong&layout=donut&show_icons=true&hide_border=true&count_private=true" />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheoneunjeong&show_icons=true&hide_border=true&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=cheoneunjeong&show_icons=true&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheoneunjeong&bg_color=ffffff&color=000000&line=80a6ff&point=2c4ef6&area=true&hide_border=true" width=94%/>
-</a>
+</a> -->
 <!--
 **cheoneunjeong/cheoneunjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
